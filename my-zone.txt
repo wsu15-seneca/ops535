@@ -1,0 +1,12 @@
+$TTL    86400
+@       IN      SOA     pri-dns.wsu15.ops.      root.pri-dns.wsu15.ops.(
+                2021062001    ; Serial
+                3H            ; Refresh
+                15M           ; Retry
+                1W            ; Expire
+                1D )          ; Minimum
+@                     IN      NS      pri-dns.wsu15.ops.
+pri-dns.wsu15.ops.    IN       A      192.168.26.2
+router.wsu15.ops.     IN       A      192.168.26.1
+co-nfs.wsu15.ops.     IN       A      192.168.26.3
+rns-ldap.wsu15.ops.   IN       A      192.168.26.4
