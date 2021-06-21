@@ -1,0 +1,6 @@
+/nfs-pub 192.168.26.1(rw,root_squash)
+/nfs-pub 192.168.26.2(rw,root_squash)
+/nfs-pub 192.168.26.4(rw,root_squash)
+/nethome 192.168.26.1(rw,root_squash)
+/nethome 192.168.26.2(rw,root_squash)
+/nethome 192.168.26.4(rw,root_squash)

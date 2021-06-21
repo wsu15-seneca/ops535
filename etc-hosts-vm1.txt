@@ -1,0 +1,6 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+192.168.26.1    router  router.wsu15.ops
+192.168.26.2    pri-dns pri-dns.wsu15.ops
+192.168.26.3    co-nfs  co-nfs.wsu15.ops
+192.168.26.4    rns-ldap        rns-ldap.wsu15.ops
